@@ -9,7 +9,7 @@ https://learn.promineotech.com/mod/book/view.php?id=11765&chapterid=681
 original attempt was at creating a different menu for games and players, it got messy and I had difficulty, so I went to just follow along the video.
 I did clean up the description text slightly, something I thought was just easier for me or the user to read.
 
-Assignment Requirements ------
+Assignment Requirements --------
 - use at least one array
 - use at least two class
 - menu should have options to create, view and delete elements
